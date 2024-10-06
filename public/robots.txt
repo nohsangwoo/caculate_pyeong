@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /admin
+
+# Host
+Host: https://pyeong.ludgi.ai
+
+# Sitemaps
+Sitemap: https://pyeong.ludgi.ai/sitemap.xml
