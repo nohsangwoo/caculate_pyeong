@@ -1,6 +1,7 @@
 # 평수 계산기 프로젝트
 
 ![alt text](image.png)
+![alt text](image-2.png)
 ![alt text](image-1.png)
 
 서비스 링크: https://pyeong.ludgi.ai/
